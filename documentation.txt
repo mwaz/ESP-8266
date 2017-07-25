@@ -1,0 +1,3 @@
+The documentation is connection of esp826 wifi module to thingspeak website for the internet of things. 
+The wifi module used is an esp 8266 
+The sensors used for the example project is the DHT sensor, the DHT11 sensor measures both humidity and temperature of any given surrounding
